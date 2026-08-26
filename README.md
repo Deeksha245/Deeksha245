@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Deeksha G Naik
+👋 Hi, I'm Deeksha G Naik
 
 ### 💻 MCA Student | Software Development Enthusiast | Technology Learner
 
@@ -6,7 +6,7 @@
   <a href="https://github.com/Deeksha245">
     <img src="https://img.shields.io/badge/GitHub-Deeksha245-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Deeksha245&style=for-the-badge&color=blue" alt="Profile Views">
+  
 </p>
 
 ---
