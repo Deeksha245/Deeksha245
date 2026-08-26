@@ -142,28 +142,7 @@ A web-based application designed to help users explore and navigate available co
 * 📜 CCNA Certified
 * 💡 Participated in technical and product-based competitions
 
----
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeksha245&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha245&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deeksha245&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-## 🐍 My Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deeksha245/Deeksha245/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
-
----
 
 ## 🤝 Let's Connect
 
