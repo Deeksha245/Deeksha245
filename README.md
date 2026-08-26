@@ -1,42 +1,183 @@
-# Hi 👋, I'm Deeksha G Naik
+# 👋 Hi, I'm Deeksha G Naik
 
-### MCA Student | Software Development Enthusiast | Technology Learner
+### 💻 MCA Student | Software Development Enthusiast | Technology Learner
 
-🎓 Second-year MCA student at St. Joseph Engineering College, Mangaluru  
-💻 Interested in software development and practical technology solutions  
-🚀 Building projects with Java, Python, MySQL, HTML & CSS  
-🌱 Currently improving my programming and problem-solving skills  
-🏆 Winner of a Product-Based Learning competition
+<p align="center">
+  <a href="https://github.com/Deeksha245">
+    <img src="https://img.shields.io/badge/GitHub-Deeksha245-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Deeksha245&style=for-the-badge&color=blue" alt="Profile Views">
+</p>
+
+---
 
 ## 👩‍💻 About Me
 
-I am a second-year MCA student with a BCA background and a strong interest in technology and software development. I enjoy learning new technologies and applying my knowledge through practical projects.
+I am a **second-year MCA student** with a BCA background and a strong interest in technology and software development. I enjoy learning new technologies and applying my knowledge by building practical projects.
 
-I have hands-on exposure to Java, Python, MySQL, HTML, CSS, IoT, and networking. My academic and personal projects have given me experience in developing practical solutions and understanding how different technologies work together.
+I have hands-on exposure to **Java, Python, MySQL, HTML, CSS, IoT, and networking** through academic and personal projects.
 
-I have also worked as a Guest Lecturer, which helped me strengthen my communication, presentation, and interpersonal skills. I have participated in technical and product-based competitions, where my team achieved winning positions.
+I have also worked as a **Guest Lecturer**, which strengthened my communication, presentation, and interpersonal skills. I have participated in technical and product-based competitions and gained experience working as part of a team to develop and present practical solutions.
 
-🌱 Currently, I am focused on improving my programming, problem-solving, and software development skills.
+> 🌱 **Currently learning:** Programming, problem-solving, and software development
+> 🎯 **Goal:** Build strong technical skills and grow as a software professional
+
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+</p>
 
 ### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
 ### 🌐 Networking & IoT
-![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00897B?style=for-the-badge&logo=arduino&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/IoT-00897B?style=for-the-badge&logo=arduino&logoColor=white">
+</p>
 
 ### 📊 Python Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🗑️ EasyBin — Smart Waste Management System</b></summary>
+
+<br>
+
+A smart waste management system that monitors waste-bin levels and provides alerts when bins require attention.
+
+**Tech Used:**
+`ESP8266 NodeMCU` • `Ultrasonic Sensor` • `ThingSpeak` • `Web Dashboard` • `Green API`
+
+### ✨ Key Features
+
+* 📡 Real-time monitoring of bin fill levels
+* 📊 Web-based monitoring dashboard
+* 🔔 WhatsApp alerts when the bin reaches a defined level
+* ☁️ Cloud-based data monitoring using ThingSpeak
+
+### 🏆 Achievements
+
+* 🥇 **Winner — Product-Based Learning Competition, Kristu Jayanti College, Bangalore**
+* 🥈 **Runner-Up — Product Launch Competition, Shree Devi Institute of Technology, Kenjar**
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🛡️ LeakGuard — Data Loss Prevention Extension</b></summary>
+
+<br>
+
+A browser-based Data Loss Prevention solution designed to help identify and prevent sensitive information from being unintentionally exposed.
+
+**Tech Used:**
+`JavaScript` • `Node.js` • `Express.js` • `Supabase`
+
+### ✨ Key Features
+
+* 🔍 Detection of potentially sensitive information
+* 🛡️ Data protection mechanisms
+* 🌐 Chrome Extension integration
+* 🗄️ Backend data management
+
+</details>
+
+<br>
+
+<details>
+<summary><b>📚 Course Navigator</b></summary>
+
+<br>
+
+A web-based application designed to help users explore and navigate available courses.
+
+**Tech Used:**
+`PHP` • `MySQL` • `HTML` • `CSS`
+
+### ✨ Key Features
+
+* 📚 Course information management
+* 🔎 Course navigation
+* 🗄️ MySQL database integration
+* 🌐 User-friendly web interface
+
+</details>
+
+---
+
+## 🏆 Achievements & Activities
+
+* 🥇 Winner — Product-Based Learning Competition
+* 🥈 Runner-Up — Product Launch Competition
+* 🎤 Experience as a Guest Lecturer
+* 📜 CCNA Certified
+* 💡 Participated in technical and product-based competitions
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeksha245&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha245&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Deeksha245&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+## 🐍 My Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deeksha245/Deeksha245/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Deeksha245">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/deeksha-naik-g/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>🌱 Learning. Building. Improving. 🚀</b>
+</p>
