@@ -158,5 +158,6 @@ A web-based application designed to help users explore and navigate available co
 ---
 
 <p align="center">
+  <b>It is better to Try and Fail than to live with the Regret of Never Trying it At all.</b>
   <b>🌱 Learning. Building. Improving. 🚀</b>
 </p>
