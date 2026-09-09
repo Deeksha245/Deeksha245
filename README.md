@@ -1,463 +1,434 @@
-<div align="center">
+<!-- =========================================================
+     DEEKSHA G NAIK | GITHUB PROFILE README
+     THEME: PURPLE × BLACK × MODERN DEVELOPER
+========================================================= -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ======================= HEADER ======================= -->
 
-<!--                    CINEMATIC HEADER                         -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Deeksha%20G%20Naik&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20%7C%20MCA%20Student&descSize=17&descColor=C084FC&descAlignY=58&color=0D1117" width="100%">
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Deeksha+%F0%9F%91%8B;Second-year+MCA+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve;Turning+ideas+into+working+solutions+%F0%9F%9A%80" alt="Typing animation">
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0,000000,003300,00FF41&height=300&section=header&text=Deeksha%20G%20Naik&fontSize=78&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=💻%20MCA%20Student%20·%20Software%20Development%20Enthusiast%20🚀&descAlignY=62&descColor=39FF14&descSize=21&stroke=00FF41&strokeWidth=2" />
+<p align="center">
+  <img src="https://img.shields.io/badge/LEARNING-A855F7?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/BUILDING-C084FC?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/IMPROVING-7C3AED?style=for-the-badge&labelColor=0D1117">
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/Deeksha245">
+    <img src="https://img.shields.io/badge/GitHub-Deeksha245-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/deeksha-naik-g/">
+    <img src="https://img.shields.io/badge/LinkedIn-Deeksha%20G%20Naik-C084FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117">
+  </a>
+</p>
 
-<!-- TYPING ANIMATION -->
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=850&height=60&lines=Hi+👋+I'm+Deeksha+G+Naik;MCA+Student+🎓;Software+Development+Enthusiast+💻;Java+%7C+Python+%7C+SQL;IoT+%7C+Networking+%7C+Web+Technologies;Learning+Something+New+Every+Day+🌱" alt="Typing SVG" />
+<!-- ======================= ABOUT ======================= -->
 
-<br/>
+## 👩🏻‍💻 About Me
 
-<!-- CODING GIF -->
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding animation"/>
-
-<br/><br/>
-
-<!-- QUICK IDENTITY -->
-
-<img src="https://img.shields.io/badge/🎓_MCA-Student-00FF41?style=flat-square&labelColor=0D1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/💻_Focus-Software_Development-39FF14?style=flat-square&labelColor=0D1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/📍_India-00FF41?style=flat-square&labelColor=0D1117" />
-
-<br/><br/>
-
-<!-- SOCIAL BUTTONS -->
-
-<a href="https://github.com/Deeksha245">
-<img src="https://img.shields.io/badge/GitHub-Deeksha245-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/deeksha-naik-g/">
-<img src="https://img.shields.io/badge/LinkedIn-Deeksha%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Deeksha245&label=👁%20Profile%20Views&color=00FF41&style=for-the-badge&labelColor=0D1117" />
-
-</div>
-
-<br/>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 👩‍💻 `whoami`
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
+<td width="50%" valign="top">
 
-<td width="55%">
+### `whoami`
 
-```text
-╔══════════════════════════════════════════════╗
-║              DEEKSHA G NAIK                 ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🎓 MCA Student                              ║
-║  💻 Software Development Enthusiast          ║
-║  🧩 Problem Solver                           ║
-║  ☕ Java Learner                              ║
-║  🐍 Python Enthusiast                         ║
-║  🗄️ SQL & Database Explorer                  ║
-║  📡 IoT & Networking Explorer                ║
-║                                              ║
-║  "Learning by building." 🚀                  ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
+I'm a **second-year MCA student** aspiring to build a career in **software development**.
+
+I enjoy exploring different areas of technology, working on practical projects, and continuously improving my programming and problem-solving skills.
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260"/>
+### `quick_info`
+
+```text
+🎓  MCA Student
+💻  Software Development
+☕  Java & Python
+🗄️  MySQL / SQL
+🌐  Web Technologies
+🤖  IoT Projects
+🌐  CCNA Certified
+```
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>“Learn something. Build something. Improve something.”</i>
+</p>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,php&theme=dark">
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,git,github,vscode&theme=dark">
+
+</p>
+
+<p align="center">
+  <code>Java</code>
+  <code>Python</code>
+  <code>SQL</code>
+  <code>JavaScript</code>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>Node.js</code>
+  <code>IoT</code>
+</p>
+
+---
+
+<!-- ======================= CURRENT FOCUS ======================= -->
+
+## 🎯 Currently Exploring
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🧠
+
+**Problem Solving**
+
+DSA
+Logic Building
+Programming Fundamentals
 
 </td>
 
+<td align="center" width="33%">
+
+### 💻
+
+**Development**
+
+Java
+Python
+Web Technologies
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐
+
+**Core Technologies**
+
+SQL
+Databases
+Computer Networks
+
+</td>
 </tr>
 </table>
 
-</div>
-
-### 🌱 A little about me
-
-I am a **second-year MCA student** with a BCA background and an interest in software development and technology.
-
-I enjoy turning what I learn into **practical projects**, experimenting with different technologies, and improving my problem-solving skills.
-
-My journey is currently centered around:
-
-> ☕ **Java** → 🧩 **Problem Solving** → 🗄️ **SQL** → 💻 **Software Development**
-
-I also have hands-on experience with **Python, HTML, CSS, IoT and networking**, along with experience as a **Guest Lecturer**, which helped me develop my communication and presentation skills.
+<p align="center">
+  <img src="https://img.shields.io/badge/PROGRESS-ALWAYS_LOADING-A855F7?style=for-the-badge&labelColor=0D1117">
+</p>
 
 ---
 
-## 🧠 `MY TECH UNIVERSE`
+<!-- ======================= PROJECTS ======================= -->
 
-<div align="center">
+## 🚀 Projects
 
-### ☕ Programming
+### 🗑️ EasyBin
 
-<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
+**Smart Waste Management System**
 
-<br/><br/>
+An IoT-based system designed to monitor waste levels and provide a web-based monitoring interface.
 
-### 🌐 Web
+**Technologies**
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-
-<br/><br/>
-
-### 🗄️ Data
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-<br/><br/>
-
-### 📊 Python Ecosystem
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-
-<br/><br/>
-
-### 📡 Networking & IoT
-
-<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-00897B?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<br/><br/>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## 🧩 `CURRENTLY_LEVELING_UP`
-
-<div align="center">
+`ESP8266` `Ultrasonic Sensor` `ThingSpeak` `Web Dashboard` `Green API`
 
 ```text
-                 ╭─────────────────────╮
-                 │   DEEKSHA.EXE       │
-                 │   STATUS: LEARNING  │
-                 ╰──────────┬──────────╯
-                            │
-          ┌─────────────────┼─────────────────┐
-          ▼                 ▼                 ▼
-       ☕ JAVA          🧩 DSA             🗄️ SQL
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            ▼
-                    💻 SOFTWARE DEV
-                            │
-                            ▼
-                    🚀 BUILD PROJECTS
-                            │
-                            ▼
-                     🌱 KEEP GROWING
+Sensor → ESP8266 → Cloud → Dashboard → Alert
 ```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/☕_Java-Learning-00FF41?style=for-the-badge&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🧩_DSA-Practicing-00FF41?style=for-the-badge&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🗄️_SQL-Improving-00FF41?style=for-the-badge&labelColor=0D1117"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🐍_Python-Exploring-39FF14?style=for-the-badge&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/💻_Problem_Solving-Developing-39FF14?style=for-the-badge&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🌐_Networking-Exploring-39FF14?style=for-the-badge&labelColor=0D1117"/>
-
-</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🛡️ LeakGuard
 
-## 🚀 `PROJECTS.IN_PROGRESS`
+**Data Loss Prevention System**
 
-<details open>
-<summary><b>🛡️ LeakGuard — Data Loss Prevention Extension</b></summary>
+A Chrome extension and backend system designed to detect sensitive information and help prevent accidental data leakage.
 
-<br/>
+**Technologies**
+
+`JavaScript` `Chrome Extension` `Node.js` `Express.js` `Supabase`
 
 ```text
-PROJECT TYPE
-Browser Extension + Backend
-
-PURPOSE
-Identify potentially sensitive information
-and help prevent accidental data exposure.
-
-TECHNOLOGY
-JavaScript
-Node.js
-Express.js
-Supabase
-
-FEATURES
-🔍 Sensitive information detection
-🛡️ Data protection mechanisms
-🌐 Chrome Extension integration
-🗄️ Backend data management
+Input → Detection → DLP Check → Protection
 ```
 
-</details>
+---
 
-<br/>
+### 📚 Course Navigator
+
+**Course Navigation Web Application**
+
+A web-based application developed to organize and present course-related information.
+
+**Technologies**
+
+`PHP` `MySQL` `HTML` `CSS`
+
+---
+
+<!-- ======================= PROJECT PHILOSOPHY ======================= -->
+
+## 💡 `build_mode`
+
+<p align="center">
+
+**IDEA**
+↓
+**LEARN**
+↓
+**BUILD**
+↓
+**DEBUG**
+↓
+**IMPROVE**
+↓
+**REPEAT**
+
+</p>
+
+<p align="center">
+  <i>Every project is another opportunity to understand technology better.</i>
+</p>
+
+---
+
+<!-- ======================= LEARNING ======================= -->
+
+## 📚 Learning Journey
 
 <details>
-<summary><b>🗑️ EasyBin — Smart Waste Management System</b></summary>
+<summary><b>🧠 Problem Solving</b></summary>
 
-<br/>
+<br>
 
-```text
-PROJECT TYPE
-IoT + Cloud + Web Dashboard
-
-PURPOSE
-Monitor waste-bin levels and provide
-alerts when bins require attention.
-
-TECHNOLOGY
-ESP8266 NodeMCU
-Ultrasonic Sensor
-ThingSpeak
-Green API
-Web Dashboard
-
-FEATURES
-📡 Real-time monitoring
-📊 Web dashboard
-🔔 WhatsApp alerts
-☁️ Cloud-based monitoring
-```
+* Arrays
+* Strings
+* Searching
+* Sorting
+* Stack
+* Queue
+* Linked List
+* Recursion
+* Basic Data Structures
 
 </details>
-
-<br/>
 
 <details>
-<summary><b>📚 Course Navigator</b></summary>
+<summary><b>☕ Java & Programming</b></summary>
 
-<br/>
+<br>
 
-```text
-PROJECT TYPE
-Web Application
+* Java fundamentals
+* Object-Oriented Programming
+* Problem solving
+* Programming logic
+* Basic data structures
 
-PURPOSE
-Help users explore and navigate
-available courses.
+</details>
 
-TECHNOLOGY
-PHP
-MySQL
-HTML
-CSS
+<details>
+<summary><b>📊 Python & Data</b></summary>
 
-FEATURES
-📚 Course information
-🔎 Course navigation
-🗄️ Database integration
-🌐 Web interface
-```
+<br>
+
+* Python fundamentals
+* NumPy
+* Pandas
+* Matplotlib
+* Basic data analysis
+
+</details>
+
+<details>
+<summary><b>🌐 Web & Backend</b></summary>
+
+<br>
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Express.js
+* MySQL
+
+</details>
+
+<details>
+<summary><b>🌐 Networking</b></summary>
+
+<br>
+
+* Networking fundamentals
+* TCP/IP
+* Network concepts
+* CCNA
 
 </details>
 
 ---
 
-## 💡 `THINGS_I_LIKE_TO_BUILD`
+<!-- ======================= DEV TERMINAL ======================= -->
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">💻<br/><b>Software</b><br/>Development</td>
-<td align="center">🧩<br/><b>Problem</b><br/>Solving</td>
-<td align="center">📡<br/><b>IoT</b><br/>Projects</td>
-</tr>
-
-<tr>
-<td align="center">🗄️<br/><b>Database</b><br/>Applications</td>
-<td align="center">🌐<br/><b>Web</b><br/>Projects</td>
-<td align="center">🤖<br/><b>Technology</b><br/>Exploration</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏅 `EXPERIENCE & ACTIVITIES`
-
-<div align="center">
+## 🖥️ `developer_terminal`
 
 ```text
-🎤  GUEST LECTURER
-    └── Teaching · Presentation · Communication
+$ ./deeksha.sh
 
-🏆  TECHNICAL & PRODUCT COMPETITIONS
-    └── Teamwork · Ideation · Project Presentation
+Loading profile...
 
-🥇  PRODUCT-BASED LEARNING
-    └── EasyBin
+[✓] Curiosity
+[✓] Learning
+[✓] Problem Solving
+[✓] Building Projects
+[✓] Debugging
+[✓] Continuous Improvement
 
-🥈  PRODUCT LAUNCH
-    └── Competition Participation
+STATUS : ONLINE
 
-📜  CCNA CERTIFIED
-    └── Networking Knowledge
+> Ready to build.
 ```
-
-</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ======================= SNAKE ======================= -->
 
-## 🗺️ `MY LEARNING MAP`
+## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deeksha245/Deeksha245/output/github-snake.svg" alt="Deeksha's GitHub contribution snake">
+</p>
+
+<p align="center">
+  <sub>Every contribution is a small step forward. 🟣</sub>
+</p>
+
+---
+
+<!-- ======================= DEBUG ======================= -->
+
+## 🐞 `debug_mode`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/BUG_FOUND-DEBUG_IT-A855F7?style=for-the-badge&labelColor=0D1117">
+&nbsp;
+<img src="https://img.shields.io/badge/LOGIC_CHECK-IN_PROGRESS-C084FC?style=for-the-badge&labelColor=0D1117">
+&nbsp;
+<img src="https://img.shields.io/badge/BUILD-READY-7C3AED?style=for-the-badge&labelColor=0D1117">
+
+</p>
 
 ```text
-                         ┌──────────────┐
-                         │     MCA      │
-                         └──────┬───────┘
-                                │
-                 ┌──────────────┼──────────────┐
-                 ▼              ▼              ▼
-              ☕ JAVA        🐍 PYTHON       🗄️ SQL
-                 │              │              │
-                 └──────────────┼──────────────┘
-                                │
-                                ▼
-                         🧩 PROBLEM SOLVING
-                                │
-              ┌─────────────────┼─────────────────┐
-              ▼                 ▼                 ▼
-          🌐 WEB              📡 IoT          🌐 NETWORKING
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                │
-                                ▼
-                       💻 SOFTWARE DEVELOPMENT
-                                │
-                                ▼
-                          🚀 BUILD & LEARN
+$ find_bug
+
+Searching...
+Searching...
+Searching...
+
+> Bug found.
+
+$ fix_bug
+
+Analyzing logic...
+Testing solution...
+Running again...
+
+> Bug fixed. ✓
 ```
 
-</div>
-
 ---
 
-## 🐍 `CONTRIBUTION SNAKE`
+<!-- ======================= CONNECT ======================= -->
 
-<div align="center">
+## 🔗 Let's Connect
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deeksha245/Deeksha245/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deeksha245/Deeksha245/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Deeksha245/Deeksha245/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🌱 `CURRENT STATUS`
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│              DEEKSHA G NAIK                       │
-│                                                    │
-│       🎓 MCA Student                              │
-│                                                    │
-│       STATUS                                      │
-│       └── 🟢 Learning & Building                  │
-│                                                    │
-│       FOCUS                                       │
-│       ├── ☕ Java                                 │
-│       ├── 🧩 DSA                                  │
-│       ├── 🗄️ SQL                                  │
-│       ├── 🐍 Python                               │
-│       └── 💻 Software Development                 │
-│                                                    │
-│       MISSION                                     │
-│       └── Turn knowledge into practical projects  │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-## 🎯 `WHAT'S NEXT?`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=750&height=50&lines=Learn+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Improve;One+problem+at+a+time+%F0%9F%A7%A9;One+project+at+a+time+%F0%9F%9A%80;Keep+learning.+Keep+building.+%F0%9F%8C%B1" />
-
-</div>
-
-<br/>
-
----
-
-## 🤝 `LET'S CONNECT`
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Deeksha245">
-<img src="https://img.shields.io/badge/GitHub-Deeksha245-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Deeksha245-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
 </a>
 
- 
+  
 
 <a href="https://www.linkedin.com/in/deeksha-naik-g/">
-<img src="https://img.shields.io/badge/LinkedIn-Deeksha%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Deeksha%20G%20Naik-C084FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117">
 </a>
 
-<br/><br/>
+</p>
 
-<img width="700" src="https://capsule-render.vercel.app/api?type=soft&color=0,0D1117,003300&height=120&section=header&text=Learning.%20Building.%20Improving.&fontSize=25&fontColor=00FF41&fontAlignY=45&desc=🌱%20Growing%20one%20project%20at%20a%20time%20🚀&descAlignY=70&descColor=39FF14&descSize=16&animation=fadeIn" />
+---
 
-<br/><br/>
+<!-- ======================= MOTIVATION ======================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,003300,00FF41&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=22&fontColor=0D1117&fontAlignY=65&animation=fadeIn" />
+## 💬 `motivation.txt`
 
-</div>
+```text
+$ cat motivation.txt
+
+Don't try to know everything.
+
+Learn what you need.
+Build what you can.
+Ask when you're stuck.
+Debug when it breaks.
+Try again when it fails.
+
+$ echo $MINDSET
+
+progress > perfection
+consistency > intensity
+curiosity > fear
+learning > pretending
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=700&color=C084FC&center=true&vCenter=true&width=650&lines=Keep+learning.;Keep+building.;Keep+debugging.;Keep+moving+forward.;Code.+Learn.+Build.+Repeat." alt="Closing animation">
+</p>
+
+---
+
+<!-- ======================= FOOTER ======================= -->
+
+<p align="center">
+  <code>~/developer/Deeksha245 $ exit</code>
+</p>
+
+<p align="center">
+  🟣 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🟣
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer&animation=fadeIn" width="100%">
+</p>
