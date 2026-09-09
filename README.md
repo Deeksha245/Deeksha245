@@ -161,3 +161,10 @@ A web-based application designed to help users explore and navigate available co
   <b>It is better to Try and Fail than to live with the Regret of Never Trying it At all.</b>
   <b>🌱 Learning. Building. Improving. 🚀</b>
 </p>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Deeksha245/Deeksha245/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
