@@ -28,7 +28,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/💻_Software-Development-C084FC?style=for-the-badge&labelColor=12002F&color=C084FC" />
 &nbsp;
-<img src="https://img.shields.io/badge/📊_CGPA-8.71%2F10-7B2CBF?style=for-the-badge&labelColor=12002F&color=7B2CBF" />
 
 <br/><br/>
 
@@ -71,8 +70,7 @@
 ║              DEEKSHA G NAIK                      ║
 ║       MCA Student | Software Development         ║
 ╠══════════════════════════════════════════════════╣
-║  EDUCATION :: MCA — SJEC, Mangaluru             ║
-║  CGPA      :: 8.71 / 10                          ║
+║  EDUCATION :: MCA — SJEC, Mangaluru             ║                          ║
 ║  FOCUS     :: Software Development               ║
 ║  LANGUAGES :: Java · Python · SQL                ║
 ║  DATABASE  :: MySQL                              ║
@@ -253,47 +251,8 @@ A simple task management application with browser-based local storage for managi
 | 💃 **Dance**                      | Active interest                   |
 | 👩‍🏫 **Guest Lecturer**          | Academic teaching experience      |
 
-</div>
 
 ---
-
-## 🎓 Education
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MCA-St._Joseph_Engineering_College%2C_Mangaluru-A855F7?style=for-the-badge&labelColor=12002F"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CGPA-8.71%2F10-C084FC?style=for-the-badge&labelColor=12002F"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BCA-GFGC_Carstreet%2C_Mangaluru-7B2CBF?style=for-the-badge&labelColor=12002F"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CGPA-8.33%2F10-A855F7?style=for-the-badge&labelColor=12002F"/>
-
-</div>
-
----
-
-## 📜 Certifications & Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/☕_Introduction_to_Java-SoloLearn-A855F7?style=for-the-badge&labelColor=12002F"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🗄️_Mastering_SQL_Queries-SQL-C084FC?style=for-the-badge&labelColor=12002F"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🌐_CCNA-Networking_Foundations-7B2CBF?style=for-the-badge&labelColor=12002F"/>
-
-</div>
 
 ---
 
@@ -359,23 +318,7 @@ A simple task management application with browser-based local storage for managi
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deeksha245&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deeksha245&bg_color=12002F&color=C084FC&line=A855F7&point=E9D5FF&area=true&area_color=240046&hide_border=true&radius=8" />
-
-</div>
 
 ---
 
