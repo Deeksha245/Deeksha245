@@ -301,7 +301,7 @@ A simple task management application with browser-based local storage for managi
 ---
 
 <div>
-
+### Github analytics
 <img src="https://streak-stats.demolab.com?user=Deeksha245&theme=tokyonight&hide_border=true&background=12002F&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=C084FC&sideNums=A855F7&currStreakNum=E9D5FF" />
 
 </div>
