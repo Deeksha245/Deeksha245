@@ -300,17 +300,7 @@ A simple task management application with browser-based local storage for managi
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deeksha245&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12002F&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&include_all_commits=true" />
-
- 
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha245&layout=compact&theme=tokyonight&hide_border=true&bg_color=12002F&title_color=C084FC&text_color=E9D5FF&langs_count=8" />
-
-<br/><br/>
+<div>
 
 <img src="https://streak-stats.demolab.com?user=Deeksha245&theme=tokyonight&hide_border=true&background=12002F&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=C084FC&sideNums=A855F7&currStreakNum=E9D5FF" />
 
