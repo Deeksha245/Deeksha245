@@ -1,32 +1,43 @@
-👋 Hi, I'm Deeksha G Naik
+# 👋 Hi, I'm Deeksha G Naik
 
-### 💻 MCA Student | Software Development Enthusiast | Technology Learner
+### 💻 MCA Student | Software Development Enthusiast
 
 <p align="center">
   <a href="https://github.com/Deeksha245">
     <img src="https://img.shields.io/badge/GitHub-Deeksha245-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  
+  <a href="https://www.linkedin.com/in/deeksha-naik-g/">
+    <img src="https://img.shields.io/badge/LinkedIn-Deeksha%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a **second-year MCA student** with a BCA background and a strong interest in technology and software development. I enjoy learning new technologies and applying my knowledge by building practical projects.
+I am a **second-year MCA student** with a BCA background and an interest in software development and technology.
 
-I have hands-on exposure to **Java, Python, MySQL, HTML, CSS, IoT, and networking** through academic and personal projects.
+I enjoy learning new technologies and applying my knowledge by building practical projects.
 
-I have also worked as a **Guest Lecturer**, which strengthened my communication, presentation, and interpersonal skills. I have participated in technical and product-based competitions and gained experience working as part of a team to develop and present practical solutions.
+### 🔹 Technical Interests
 
-> 🌱 **Currently learning:** Programming, problem-solving, and software development
+* 💻 Java & Python
+* 🗄️ MySQL & SQL
+* 🌐 Web Technologies
+* 📡 IoT
+* 🌐 Computer Networking
+* 🧩 Problem Solving
+
+I have also worked as a **Guest Lecturer**, which helped me develop strong communication, presentation, and teamwork skills.
+
+> 🌱 **Currently learning:** Java, DSA, SQL & Software Development
 > 🎯 **Goal:** Build strong technical skills and grow as a software professional
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -66,71 +77,57 @@ I have also worked as a **Guest Lecturer**, which strengthened my communication,
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🗑️ EasyBin — Smart Waste Management System</b></summary>
+### 🛡️ LeakGuard — Data Loss Prevention Extension
 
-<br>
-
-A smart waste management system that monitors waste-bin levels and provides alerts when bins require attention.
+A browser-based **Data Loss Prevention solution** designed to identify potentially sensitive information and help prevent accidental exposure.
 
 **Tech Used:**
-`ESP8266 NodeMCU` • `Ultrasonic Sensor` • `ThingSpeak` • `Web Dashboard` • `Green API`
+`JavaScript` `Node.js` `Express.js` `Supabase` `Chrome Extension`
 
-### ✨ Key Features
+**Key Features:**
 
-* 📡 Real-time monitoring of bin fill levels
-* 📊 Web-based monitoring dashboard
-* 🔔 WhatsApp alerts when the bin reaches a defined level
-* ☁️ Cloud-based data monitoring using ThingSpeak
-
-### 🏆 Achievements
-
-* 🥇 **Winner — Product-Based Learning Competition, Kristu Jayanti College, Bangalore**
-* 🥈 **Runner-Up — Product Launch Competition, Shree Devi Institute of Technology, Kenjar**
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🛡️ LeakGuard — Data Loss Prevention Extension</b></summary>
-
-<br>
-
-A browser-based Data Loss Prevention solution designed to help identify and prevent sensitive information from being unintentionally exposed.
-
-**Tech Used:**
-`JavaScript` • `Node.js` • `Express.js` • `Supabase`
-
-### ✨ Key Features
-
-* 🔍 Detection of potentially sensitive information
+* 🔍 Detects potentially sensitive information
 * 🛡️ Data protection mechanisms
 * 🌐 Chrome Extension integration
 * 🗄️ Backend data management
+* 📊 Admin dashboard and activity monitoring
 
-</details>
+---
 
-<br>
+### 🗑️ EasyBin — Smart Waste Management System
 
-<details>
-<summary><b>📚 Course Navigator</b></summary>
-
-<br>
-
-A web-based application designed to help users explore and navigate available courses.
+An IoT-based waste management system that monitors bin levels and sends alerts when bins require attention.
 
 **Tech Used:**
-`PHP` • `MySQL` • `HTML` • `CSS`
+`ESP8266 NodeMCU` `Ultrasonic Sensor` `ThingSpeak` `Green API` `Web Dashboard`
 
-### ✨ Key Features
+**Key Features:**
+
+* 📡 Real-time bin-level monitoring
+* 📊 Web-based monitoring dashboard
+* 🔔 WhatsApp alerts
+* ☁️ Cloud-based data monitoring
+
+**Achievements:**
+
+* 🥇 Winner — Product-Based Learning Competition
+* 🥈 Runner-Up — Product Launch Competition
+
+---
+
+### 📚 Course Navigator
+
+A web-based application developed to help users explore and navigate available courses.
+
+**Tech Used:**
+`PHP` `MySQL` `HTML` `CSS`
+
+**Key Features:**
 
 * 📚 Course information management
 * 🔎 Course navigation
 * 🗄️ MySQL database integration
-* 🌐 User-friendly web interface
-
-</details>
+* 🌐 User-friendly interface
 
 ---
 
@@ -138,33 +135,35 @@ A web-based application designed to help users explore and navigate available co
 
 * 🥇 Winner — Product-Based Learning Competition
 * 🥈 Runner-Up — Product Launch Competition
-* 🎤 Experience as a Guest Lecturer
-* 📜 CCNA Certified
+* 🎤 Guest Lecturer
+* 📜 CCNA Certification
 * 💡 Participated in technical and product-based competitions
 
+---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Deeksha245/Deeksha245/output/github-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/Deeksha245">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-Deeksha245-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/deeksha-naik-g/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Deeksha%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>It is better to Try and Fail than to live with the Regret of Never Trying it At all.</b>
   <b>🌱 Learning. Building. Improving. 🚀</b>
 </p>
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Deeksha245/Deeksha245/output/github-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
