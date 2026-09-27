@@ -69,16 +69,16 @@
 <td width="58%">
 
 ```text
-╔══════════════════════════════════════════════════╗
-║              DEEKSHA G NAIK                      ║
-║       MCA Student | Software Development         ║
-╠══════════════════════════════════════════════════╣
-║  EDUCATION :: MCA — SJEC, Mangaluru             ║                          ║
-║  FOCUS     :: Software Development               ║
-║  LANGUAGES :: Java · Python · SQL                ║
-║  DATABASE  :: MySQL                              ║
-║  INTERESTS :: Backend · IoT · Applications       ║
-╚══════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════╗
+║              DEEKSHA G NAIK                    ║
+║       MCA Student | Software Development       ║
+╠════════════════════════════════════════════════╣
+║  EDUCATION : MCA — SJEC, Mangaluru             ║                          ║
+║  FOCUS     : Software Development              ║
+║  LANGUAGES : Java · Python · SQL               ║
+║  DATABASE  : MySQL                             ║
+║  INTERESTS : Backend · IoT · Applications      ║
+╚════════════════════════════════════════════════╝
 ```
 
 </td>
@@ -91,13 +91,13 @@
 </tr>
 </table>
 
-> 🎓 I’m currently pursuing my **Master of Computer Applications (MCA)** at **St. Joseph Engineering College, Mangaluru**.
+<p> 🎓 I’m currently pursuing my **Master of Computer Applications (MCA)** at **St. Joseph Engineering College, Mangaluru**.
 >
 > 💻 I’m interested in **software development**, with a stronger focus on backend development, databases, and practical application building.
 >
 > 🚀 I enjoy learning by building projects and exploring how different technologies work together to solve real-world problems.
 >
-> 🌱 Currently strengthening my **Java, DSA, Python, SQL, and software development skills**.
+> 🌱 Currently strengthening my **Java, DSA, Python, SQL, and software development skills**.</p>
 
 ---
 
@@ -158,16 +158,16 @@
 
 A browser-based **Data Loss Prevention system** designed to detect sensitive information before it is submitted to AI tools and web applications.
 
-**Key Features**
+Key Features
 
-* 🔎 Detects emails, phone numbers, Aadhaar/PAN, card data and other sensitive information
-* 🔑 Detects API keys, passwords and employee IDs
-* 🧩 Supports custom detection patterns using regular expressions
-* 🛡️ Browser extension-based protection
-* 📊 Admin dashboard with analytics
-* 👥 Employee and policy management
-* 🚨 Alerts and activity monitoring
-* 🤖 Designed for AI platforms such as ChatGPT, Gemini, Claude, Copilot, Perplexity and Grok
+🔎 Detects emails, phone numbers, Aadhaar/PAN, card data and other sensitive information
+🔑 Detects API keys, passwords and employee IDs
+🧩 Supports custom detection patterns using regular expressions
+🛡️ Browser extension-based protection
+📊 Admin dashboard with analytics
+👥 Employee and policy management
+🚨 Alerts and activity monitoring
+🤖 Designed for AI platforms such as ChatGPT, Gemini, Claude, Copilot, Perplexity and Grok
 
 <br/>
 
@@ -194,15 +194,15 @@ A browser-based **Data Loss Prevention system** designed to detect sensitive inf
 
 An IoT-based system designed to monitor **waste-bin fill levels** and notify workers when bins require attention.
 
-**Key Features**
+Key Features
 
-* 📡 ESP8266 NodeMCU-based monitoring
-* 📏 Ultrasonic sensor for fill-level detection
-* 📊 ThingSpeak-based monitoring
-* 📱 WhatsApp alerts when the bin reaches a defined threshold
-* 👤 Admin authentication
-* 👷 Worker and task management
-* 🌐 Web-based administration dashboard
+📡 ESP8266 NodeMCU-based monitoring
+📏 Ultrasonic sensor for fill-level detection
+📊 ThingSpeak-based monitoring
+📱 WhatsApp alerts when the bin reaches a defined threshold
+👤 Admin authentication
+👷 Worker and task management
+🌐 Web-based administration dashboard
 
 <br/>
 
@@ -214,7 +214,7 @@ An IoT-based system designed to monitor **waste-bin fill levels** and notify wor
 
 ---
 
-## 📚 Other Projects
+📚 Other Projects
 
 <details>
 <summary><b>🧭 Course Navigator</b> — BCA Academic Project</summary>
@@ -255,11 +255,7 @@ A simple task management application with browser-based local storage for managi
 | 👩‍🏫 **Guest Lecturer**          | Academic teaching experience      |
 
 
----
-
----
-
-## 🧠 Current Learning Focus
+🧠 Current Learning Focus
 
 <div align="center">
 
