@@ -91,45 +91,39 @@
 </tr>
 </table>
 
-<p> 🎓 I’m currently pursuing my **Master of Computer Applications (MCA)** at **St. Joseph Engineering College, Mangaluru**.
->
-> 💻 I’m interested in **software development**, with a stronger focus on backend development, databases, and practical application building.
->
+<p> 🎓 I’m currently pursuing my Master of Computer Applications (MCA) at St. Joseph Engineering College, Mangaluru.
+> 💻 I’m interested in Software development, with a stronger focus on backend development, databases, and practical application building.
 > 🚀 I enjoy learning by building projects and exploring how different technologies work together to solve real-world problems.
->
-> 🌱 Currently strengthening my **Java, DSA, Python, SQL, and software development skills**.</p>
+> 🌱 Currently strengthening my Java, DSA, Python, SQL, and software development skills.</p>
 
----
-
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
-
-### 💻 Programming
+💻 Programming
 
 <img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
 
 <br/><br/>
 
-### 🗄️ Database
+🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 <br/><br/>
 
-### 🌐 Web & Application Development
+🌐 Web & Application Development
 
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,express&theme=dark" />
 
 <br/><br/>
 
-### 🔌 IoT & Development Tools
+🔌 IoT & Development Tools
 
 <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" />
 
 <br/><br/>
 
-### 📚 Currently Strengthening
+📚 Currently Strengthening
 
 <img src="https://img.shields.io/badge/Java%20%26%20DSA-Learning-A855F7?style=for-the-badge&labelColor=12002F"/>
 &nbsp;
@@ -139,13 +133,11 @@
 
 </div>
 
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-### 🔐 LeakGuard
+🔐 LeakGuard
 
 **Browser-Based Data Loss Prevention for AI Tools**
 
@@ -156,7 +148,7 @@
 
 <br/><br/>
 
-A browser-based **Data Loss Prevention system** designed to detect sensitive information before it is submitted to AI tools and web applications.
+A browser-based Data Loss Prevention system designed to detect sensitive information before it is submitted to AI tools and web applications.
 
 Key Features
 
@@ -181,9 +173,9 @@ Key Features
 
 <div align="center">
 
-### ♻️ EasyBin
+♻️ EasyBin
 
-**IoT-Based Smart Waste Management System**
+IoT-Based Smart Waste Management System
 
 <img src="https://img.shields.io/badge/ESP8266-NodeMCU-8A2BE2?style=flat-square"/>
 <img src="https://img.shields.io/badge/IoT-Smart%20Waste%20Management-A855F7?style=flat-square"/>
@@ -192,7 +184,7 @@ Key Features
 
 <br/><br/>
 
-An IoT-based system designed to monitor **waste-bin fill levels** and notify workers when bins require attention.
+An IoT-based system designed to monitor Waste-bin fill levels and notify workers when bins require attention.
 
 Key Features
 
@@ -223,7 +215,7 @@ Key Features
 
 A web-based application developed to help students explore and navigate course-related information.
 
-**Technologies:** PHP · MySQL · HTML · XAMPP
+Technologies: PHP · MySQL · HTML · XAMPP
 
 </details>
 
@@ -236,13 +228,12 @@ A web-based application developed to help students explore and navigate course-r
 
 A simple task management application with browser-based local storage for managing tasks.
 
-**Technologies:** HTML · CSS · JavaScript · Local Storage
+Technologies: HTML · CSS · JavaScript · Local Storage
 
 </details>
 
----
 
-## 🏆 Achievements & Activities
+🏆 Achievements & Activities
 
 <div align="center">
 
@@ -259,7 +250,6 @@ A simple task management application with browser-based local storage for managi
 
 <div align="center">
 
-```text
              ┌─────────────────────┐
              │       JAVA          │
              │     + DSA           │
@@ -282,11 +272,10 @@ A simple task management application with browser-based local storage for managi
              │  IoT & Practical    │
              │     Projects        │
              └─────────────────────┘
-```
 
 </div>
 
-### 🎯 Areas I'm Working On
+🎯 Areas I'm Working On
 
 * ☕ **Java fundamentals and DSA**
 * 🐍 **Python programming**
